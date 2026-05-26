@@ -1,0 +1,4 @@
+ID,empId,empName,department,designation,salary,currency
+1,1001,Jay,IT,Consultant,50000,INR
+2,1002,Mayur,IT,Associate,60000,INR 
+3,1003,Sumedh,IT,Consulting,70000,INR 
